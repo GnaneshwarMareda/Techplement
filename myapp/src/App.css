@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/3309775/pexels-photo-3309775.jpeg?cs=srgb&dl=pexels-elina-araja-1743227-3309775.jpg&fm=jpg");
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.App h1 {
+  color: white;
+  margin: 50px;
+}
